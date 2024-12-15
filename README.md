@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on: Building real-time MERN stack applications with WebSocket integration.<br><br>I’m looking to collaborate on: Projects focused on performance optimization and dynamic UIs.<br><br>I’m looking for help with: Learning CI/CD pipelines, GraphQL, and microservices architecture.<br><br>I’m currently learning: Advanced JavaScript, TypeScript, and containerization with Docker.<br><br>Ask me about: Real-time features with WebSocket and managing complex state with Redux.<br><br>Fun fact: I love perfecting UI animations and enjoy chess in my free time!
-
+I’m currently working on: Building real-time MERN stack applications with WebSocket integration.<br><br>I’m looking to collaborate on: Projects focused on performance optimization and dynamic UIs.<br><br>I’m looking for help with: Learning CI/CD pipelines, GraphQL, and microservices architecture.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_zaingujjar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zain-ul-abideen-05b2b12b8/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_zaingujjar__?is_from_webapp=1&sender_device=pc) 
